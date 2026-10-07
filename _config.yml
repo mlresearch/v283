@@ -4,7 +4,7 @@ title: Proceedings of Machine Learning Research
 shortname: L4DC
 year: '2025'
 volume: '283'
-start: &1 2025-06-04
+start: 2025-06-04
 end: 2025-06-06
 published: 2025-05-22
 layout: proceedings
@@ -75,7 +75,7 @@ conference:
   url: https://sites.google.com/umich.edu/l4dc2025/
   location: University of Michigan, Ann Arbor, MI, USA
   dates:
-  - *1
+  - 2025-06-04
   - 2025-06-05
   - 2025-06-06
 analytics:
